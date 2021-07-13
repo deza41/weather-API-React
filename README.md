@@ -17,10 +17,10 @@ Communication tool:
 ```
 
 Links:
+
 Coding Challenge: https://theultimateapichallenge.com/weather-api-react
 
 CORS webdoc: https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
+Finished app: https://zen-heyrovsky-8205d2.netlify.app/
 
-
-Finished app: https://gallant-kowalevski-10b99c.netlify.app/
