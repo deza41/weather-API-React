@@ -22,5 +22,6 @@ Coding Challenge: https://theultimateapichallenge.com/weather-api-react
 
 CORS webdoc: https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
-Finished app: https://zen-heyrovsky-8205d2.netlify.app/
+Finished app: https://zen-heyrovsky-8205d2.netlify.app/ 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89f89547-2319-47d2-85c5-4192d682d53e/deploy-status)](https://app.netlify.com/sites/zen-heyrovsky-8205d2/deploys)
 
